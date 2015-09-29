@@ -1,0 +1,25 @@
+This is version 2.00.56 beta
+
++ Add device
+- PIC18F26K80
+- PIC16F1503
+- PIC16F1507
+- PIC16F1508
+- PIC16F1509
+- PIC10F320
+- PIC10F322
+
++ Fix bug:
+- Display fuse value is wrong.
+- Write fuse for ATmega48.
+
++ Note :
+- Download the zip file.
+- Unzip and lauch the *.exe file. DON'T REMOVE Info FOLDER and other FILES !
+
++ Update new version :
+- Please overwrite Info folder.
+- Replace the *.exe file with new file.
+- User's settings is not removed.
+
+Thank you for your selection !
